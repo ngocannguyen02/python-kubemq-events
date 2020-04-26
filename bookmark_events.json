@@ -1,0 +1,62 @@
+[
+    {
+        "contentId": "123456789",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 5000
+    },
+    {
+        "contentId": "0987654321",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 9000
+    },
+    {
+        "contentId": "124320984",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 5000
+    },
+    {
+        "contentId": "432145432",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 9000
+    },
+    {
+        "contentId": "5439208543",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 5000
+    },
+    {
+        "contentId": "548309183021",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 9000
+    },
+    {
+        "contentId": "5890048502",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 5000
+    },
+    {
+        "contentId": "124098520",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 9000
+    },
+    {
+        "contentId": "89431098312",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 5000
+    },
+    {
+        "contentId": "431208904321",
+        "userId": "nan001",
+        "duration": 10000,
+        "offset": 9000
+    }
+]
