@@ -12,17 +12,18 @@ if __name__ == "__main__":
         for event in data:
             event = Event(
                 metadata="Bookmark event metadata",
-                body =(event).encode('UTF-8'),
+                body =json.dumps(event).encode('utf-8') ,
                 store=False,
                 channel="bookmark_event_channel",
-                client_id="bookmark-events-subscriber"
+                client_id="bookmark_events_subscriber"
             )
+            print(event)
             res = publisher.send_event(event)
             print(res)
         f.close()
     except Exception as err:
       print(
-            "'error sending:'%s'" % (
+            "'Error when sending event:'%s'" % (
                 err
                         )
         )
