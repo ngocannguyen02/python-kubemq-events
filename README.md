@@ -12,6 +12,9 @@ source dev/bin/activate
 pip3 install requirements.txt
 kubemqctl cluster create -t <licenceId>
 kubemqctl set cluster proxy
+docker-compose -f docker-compose-standalone.yml up -d (from https://github.com/big-data-europe/docker-hbase)
+docker exec -it <containerId>
+hbase shell
 ```
 
 ## Usage
