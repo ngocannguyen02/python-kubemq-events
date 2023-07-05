@@ -1,5 +1,5 @@
 future==0.17.1
-grpcio==1.27.1
+grpcio==1.53.0
 happybase==1.2.0
 kubemq==1.1.0
 ply==3.11
