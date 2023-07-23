@@ -1,4 +1,4 @@
-future==0.17.1
+future==0.18.3
 grpcio==1.27.1
 happybase==1.2.0
 kubemq==1.1.0
